@@ -1,0 +1,13 @@
+sip;sipariş
+fat;fatura
+irs;irsaliye
+şb;şube
+nolu;numaralı
+nosu;numarası
+nl;numaralı
+hak;hakkında
+hk;hakkında
+netsis;kurumsal kaynak planlaması
+tşk;teşekkürler
+e-irsaliye;elektronik irsaliye
+e-fatura;elektronik fatura
